@@ -9,7 +9,7 @@ Bem-vindo ao meu projeto! Aqui está uma breve descrição.
 
 ## Imagem do Projeto
 
-![!img/Imagem.png](https://github.com/ofion87/HTML_CSS/blob/e55ae00816958836457621d7f7a7481e1b2f8f87/img/Imagem.png)
+![!img/beltran_01.png](teste)
 
 ## Tabela de Dados
 
