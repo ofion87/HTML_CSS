@@ -9,7 +9,7 @@ Bem-vindo ao meu projeto! Aqui está uma breve descrição.
 
 ## Imagem do Projeto
 
-![testando]("https://pasteboard.co/nOmuX5fJNfkl.png")
+!("https://pasteboard.co/nOmuX5fJNfkl.png")
 
 ## Tabela de Dados
 
