@@ -2,15 +2,17 @@
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/status-Em_desenvolvimento-yellow)
 
+<img src="img/beltran_01.png" alt="imagem Beltran" width="100px">
+
 Olá, jovens!
 
 Bem-vindo ao meu projeto! Aqui está uma breve descrição.
 
-Estou usando alguns conhecimento de HTML e CSS para criar uma pagina de apresentação ou Curriculo.
+A ideia desse projeto é fazer uma pagina WEB para mostrar o uso de alguns conhecimento de HTML e CSS.
+
+A página tem como objetivo me apresentar para recrutadores mostrando um pouco dos meus conhecimentos. Usei como base a estrutura de uma página do figma de um curso da Alura mas adapitando algumas melhorias e ideias pessoais.
 
 ### Estou aprendendo
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
 
