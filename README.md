@@ -8,19 +8,7 @@ Olá, jovens!
 
 Bem-vindo ao meu projeto! Aqui está uma breve descrição.
 
-A ideia desse projeto é fazer uma pagina WEB para mostrar o uso de alguns conhecimento de HTML e CSS.
-
-A página tem como objetivo me apresentar para recrutadores mostrando um pouco dos meus conhecimentos. Usei como base a estrutura de uma página do figma de um curso da Alura mas adapitando algumas melhorias e ideias pessoais.
-
-<!-- ### Estou aprendendo
-
-![Dynamic JSON Badge][def]
-
-![Gitea Last Commit (branch)](https://img.shields.io/gitea/last-commit/ofion87/HTML_CSS/main)
-
-![Gitea Last Commit](https://img.shields.io/gitea/last-commit/ofion87/HTML_CSS)
-
-![Gitea Last Commit (branch)](https://img.shields.io/gitea/last-commit/ofion87/HTML_CSS/main) -->
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## Funcionalidades
 
